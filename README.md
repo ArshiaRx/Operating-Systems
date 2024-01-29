@@ -1,6 +1,8 @@
 # Operating Systems - COE628
 This course deals with Operating systems basic concepts. This course is taken at TMU, formally known for Ryerson. (COE628)
 
+##### You may refer to my contents, but COPYING them is strictly prohibited, as it would violate policy 60.
+
 -> W2024
 
 ## Contents Covered:
