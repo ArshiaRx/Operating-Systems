@@ -31,3 +31,7 @@ Lab3:
   - Write a simple shell
     
 Lab4:
+   - Learn how to use dup2 (and/or dop) and pipe
+   - Write a simple shell to support piping
+
+Lab5:
