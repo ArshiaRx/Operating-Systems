@@ -35,3 +35,14 @@ Lab4:
    - Write a simple shell to support piping
 
 Lab5:
+
+Lab6:
+
+Lab7:
+  - Learn about multi-threading in programming language that supports the monitor concept of concurrency control.
+  - Concurrency Control in a multi-threaded Java Application
+    
+Lab8:
+  - Implement a basic Semaphore in Java to:
+  - Block Thread or Wake Up the Thread once the resource become available
+  - Implement two method up(), down()
