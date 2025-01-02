@@ -6,7 +6,7 @@
 
 /* 
  * File:   main.c
- * Author: a4rahim -500994106
+ * Author: a4rahim
  *
  * Created on February 13, 2024, 2:03 PM
  */
