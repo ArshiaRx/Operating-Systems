@@ -4,8 +4,8 @@
 #define TOO_MANY_ARGS 2
 #define TOO_FEW_ARGS 1
 
-//Student number: 500994106
-//Student Name: Arshia Rahim
+//Student number: 50---9416
+//Student Name: Arshia
 //Lab2a
 
 int main(int argc, char* argv[]) {
