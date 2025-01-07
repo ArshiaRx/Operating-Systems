@@ -5,8 +5,8 @@
 #define N_REPS 50
 #define DEFAULT_SLOWDOWN 10000
 
-//Student number: 500994106
-//Student Name: Arshia Rahim
+//Student number: 5--------
+//Student Name: Arshia 
 //Lab2b
 
 int main(int argc, char * argv[]) {
