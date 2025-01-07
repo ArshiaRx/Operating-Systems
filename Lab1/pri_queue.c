@@ -7,7 +7,7 @@ static Node_ptr_t head = NULL;
  * Insert a Node into a priority queue.
  * @param priority
  * @param data
- * @author Arshia Rahim - 500994106
+ * @author 
  */
 
 void PQ_insert(int priority, char * data) {
